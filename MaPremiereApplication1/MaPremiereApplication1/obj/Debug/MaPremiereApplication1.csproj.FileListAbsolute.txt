@@ -1,0 +1,7 @@
+C:\Users\Vincent\source\repos\C.Sharp-Bases1\MaPremiereApplication1\MaPremiereApplication1\bin\Debug\MaPremiereApplication1.exe.config
+C:\Users\Vincent\source\repos\C.Sharp-Bases1\MaPremiereApplication1\MaPremiereApplication1\bin\Debug\MaPremiereApplication1.exe
+C:\Users\Vincent\source\repos\C.Sharp-Bases1\MaPremiereApplication1\MaPremiereApplication1\bin\Debug\MaPremiereApplication1.pdb
+C:\Users\Vincent\source\repos\C.Sharp-Bases1\MaPremiereApplication1\MaPremiereApplication1\obj\Debug\MaPremiereApplication1.csprojAssemblyReference.cache
+C:\Users\Vincent\source\repos\C.Sharp-Bases1\MaPremiereApplication1\MaPremiereApplication1\obj\Debug\MaPremiereApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\source\repos\C.Sharp-Bases1\MaPremiereApplication1\MaPremiereApplication1\obj\Debug\MaPremiereApplication1.exe
+C:\Users\Vincent\source\repos\C.Sharp-Bases1\MaPremiereApplication1\MaPremiereApplication1\obj\Debug\MaPremiereApplication1.pdb
