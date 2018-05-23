@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MaPremiereApplication
+namespace MaPremiereApplication1
 {
     class Program
     {
